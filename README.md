@@ -74,3 +74,72 @@ For developing the application the following are the Hardware Requirements:
 For running the application:
 * Device: Android version 2.1 and higher
 * Minimum space to execute: 1.0MB
+
+
+Modules
+1. Splash screen.    -Front screen of App appears for 200 mil-sec. 
+
+
+![image](https://user-images.githubusercontent.com/59953294/126739221-f3afbc55-3d46-4c31-ac67-31be9dcfa4f6.png)
+
+2. Login/signup module -Gives option of both login or signup via mail or phone
+
+
+![image](https://user-images.githubusercontent.com/59953294/126739339-551ce352-88f3-4934-b0c2-cd750bef9320.png)
+
+3. login check
+- Admin Login – It will provide an authorized admin to access the application
+- 
+![image](https://user-images.githubusercontent.com/59953294/126739375-d8d7580e-ea4d-4edd-b5f9-39c9ee1ca9a8.png)
+
+4. Alert display  
+-Shows successful login or not
+
+![image](https://user-images.githubusercontent.com/59953294/126739401-02d3d183-106f-4157-9893-e0f43470da8a.png)
+
+5.Mobile signup
+-Phone Number verification with OTP.
+
+![image](https://user-images.githubusercontent.com/59953294/126739420-37ee929d-8380-4b29-930c-f9995f0a04e5.png)
+
+6. Country Code of each countries                        
+  	in login via mobile number.
+    
+![image](https://user-images.githubusercontent.com/59953294/126739445-ee950dab-8161-4fd4-b787-f6bdb9a7f0f2.png)
+
+7. Mobile OTP verification
+-Automatically verifies the number if the provided sim is present in the mobile otherwise entered manually 
+
+![image](https://user-images.githubusercontent.com/59953294/126739457-a290a638-b2a5-4f04-a46b-2e9eb1767882.png)
+
+8. Home Page
+-To add  new member.
+
+![image](https://user-images.githubusercontent.com/59953294/126739481-83d82c0b-8ea0-42a8-9532-0b011e3db457.png)
+
+9. Navigation Page 
+-Access to all the features of admin and the current record of all plans
+Features
+->Add members.
+->Members.
+->Plans.
+->Attendance.
+->B.M.I
+
+![image](https://user-images.githubusercontent.com/59953294/126739532-5531e89b-4a9e-46f6-aa90-47476da0abc0.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
